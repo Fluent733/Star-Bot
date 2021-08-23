@@ -1,2 +1,4 @@
-# Star Bot
-A very useful discord bot.
+# 🤖 Star Bot 🤖
+```js
+Coming Soon......!
+```
